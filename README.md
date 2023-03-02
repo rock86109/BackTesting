@@ -1,2 +1,2 @@
 # BackTesting
-BackTesting
+BackTesting on ccxt data.
